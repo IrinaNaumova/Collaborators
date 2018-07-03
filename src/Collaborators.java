@@ -52,9 +52,6 @@ public class Collaborators {
         Collaborators[] collabArr = {c1, c2, c3, c4, c5};
         printArray(collabArr);
 
-
     }
-
-
 
 }
